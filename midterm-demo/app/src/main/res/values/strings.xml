@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">midterm-demo</string>
+
+    <string-array name="trip">
+        <item>To Catalina</item>
+        <item>To Long Beach</item>
+    </string-array>
+
+    <string name="spinner">
+        Select Route
+    </string>
+</resources>

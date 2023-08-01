@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Classwork_9</string>
+
+    <string-array name="txtTrip">
+        <item>To Catalina Island</item>
+        <item>To Long Beach</item>
+    </string-array>
+
+    <string name="spinner">
+        Select Route
+    </string>
+</resources>

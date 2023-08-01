@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Project</string>
+
+    <string-array name="txtExercise">
+        <item>Jogging</item>
+        <item>Cycling</item>
+        <item>Strength training</item>
+        <item>Yoga and stretching</item>
+        <item>Swimming</item>
+        <item>Pilates</item>
+        <item>CrossFit</item>
+        <item>Dance workouts</item>
+        <item>Mind-body exercises</item>
+    </string-array>
+
+    <string name="spinner">
+        Select Exercise
+    </string>
+</resources>
